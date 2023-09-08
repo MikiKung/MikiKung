@@ -1,30 +1,16 @@
- <p align="center"><a href="https://MikiKung.github.io"><img src="https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif"/></a></p>
- <p align="center"><img src="https://komarev.com/ghpvc/?username=MikiKung&style=flat"/></p>
-<br />
+# <div align="center">Hi there, Peeranat Munrat (Nut) <img src="https://raw.githubusercontent.com/fResult/fResult/main/assets/wave.gif" height="32" width="32" alt="waved" /></div>
 
+### Skills and Technical Expertise:
 
-- 💼 FrontEnd Engineer intern at [Datability](https://www.facebook.com/datability.info)
+- I'm development using HTML, CSS, JavaScript, TypeScript and frameworks like React.js Next.js Angular Node.js Express.js
+- I excel at turning design concepts into functional and responsive interfaces
+- Basic knowledge of virtualization technologies such as Docker
+- Basic knowledge in Linux operating systemsMy
+- Collaborating with development teams using Scrum methodologies
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+### Connect with me
+<a href="www.linkedin.com/in/peeranat-munrat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link-in-alt" height="30" width="40" /></a>
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MikiKung&show_icons=true&include_all_commits=true&theme=buefy" alt="miki" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikiKung&layout=compact&theme=buefy" />
-</p>
-
-#### Top Repositories
-<p align="center">
-<a href="https://github.com/MikiKung/attract-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikiKung&repo=attract-client&theme=buefy" />
-</a>
-<a href="https://github.com/MikiKung/attract-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikiKung&repo=attract-api&theme=buefy" />
-</a>
- </p> 
-
-
-
-<br />
-<br />
+<img src="https://komarev.com/ghpvc/?username=MikiKung&style=flat"/>
