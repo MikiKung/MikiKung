@@ -9,7 +9,7 @@
 - Collaborating with development teams using Scrum methodologies
 
 ### Connect with me
-<a href="www.linkedin.com/in/peeranat-munrat"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link-in-alt" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/peeranat-munrat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link-in-alt" height="30" width="40" /></a>
 
 ---
 
